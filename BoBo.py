@@ -1,4 +1,4 @@
-# 刷宝
+# 刷宝1
 import time
 import os
 import random
